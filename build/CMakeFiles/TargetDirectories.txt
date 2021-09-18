@@ -1,0 +1,8 @@
+/home/andrew/Desktop/projects/c++/SimpleEngine/build/CMakeFiles/rebuild_cache.dir
+/home/andrew/Desktop/projects/c++/SimpleEngine/build/CMakeFiles/edit_cache.dir
+/home/andrew/Desktop/projects/c++/SimpleEngine/build/SimpleEngineCore/CMakeFiles/edit_cache.dir
+/home/andrew/Desktop/projects/c++/SimpleEngine/build/SimpleEngineCore/CMakeFiles/rebuild_cache.dir
+/home/andrew/Desktop/projects/c++/SimpleEngine/build/SimpleEngineCore/CMakeFiles/SimpleEngineCore.dir
+/home/andrew/Desktop/projects/c++/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/rebuild_cache.dir
+/home/andrew/Desktop/projects/c++/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/edit_cache.dir
+/home/andrew/Desktop/projects/c++/SimpleEngine/build/SimpleEngineEditor/CMakeFiles/SimpleEngineEditor.dir

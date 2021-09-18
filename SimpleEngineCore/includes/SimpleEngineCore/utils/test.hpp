@@ -1,0 +1,4 @@
+namespace SimpleEngine 
+{
+    void sayHello();
+}

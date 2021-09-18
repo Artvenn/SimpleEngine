@@ -1,0 +1,98 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "SimpleEngineCore",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SimpleEngineCore",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "SimpleEngineEditor",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SimpleEngineEditor",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "SimpleEngineCore::@a32f07d6f58bf6f9dc94",
+					"jsonFile" : "target-SimpleEngineCore-Debug-dfd716c95476de464090.json",
+					"name" : "SimpleEngineCore",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "SimpleEngineEditor::@16cdf3c5bc9bbe721522",
+					"jsonFile" : "target-SimpleEngineEditor-Debug-4c800fa4535a134ad05a.json",
+					"name" : "SimpleEngineEditor",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/andrew/Desktop/projects/c++/SimpleEngine/build",
+		"source" : "/home/andrew/Desktop/projects/c++/SimpleEngine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
