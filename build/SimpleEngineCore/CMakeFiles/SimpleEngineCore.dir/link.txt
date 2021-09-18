@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSimpleEngineCore.a  CMakeFiles/SimpleEngineCore.dir/src/SimpleEngineCore/Application.cpp.o
+/usr/bin/ranlib libSimpleEngineCore.a

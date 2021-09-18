@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SimpleEngineEditor.dir/src/main.cpp.o  -o ../bin/SimpleEngineEditor  ../SimpleEngineCore/libSimpleEngineCore.a ../SimpleEngineCore/glfw/src/libglfw3.a -lpthread /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl 

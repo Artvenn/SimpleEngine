@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../SimpleEngineCore/includes/SimpleEngineCore/Application.hpp
+
+/home/andrew/Desktop/projects/c++/SimpleEngine/SimpleEngineEditor/src/main.cpp
+memory
+-
+iostream
+-
+SimpleEngineCore/Application.hpp
+/home/andrew/Desktop/projects/c++/SimpleEngine/SimpleEngineEditor/src/SimpleEngineCore/Application.hpp
+

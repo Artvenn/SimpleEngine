@@ -1,9 +1,0 @@
-# ninja log v5
-0	64	1631942156088533072	SimpleEngineCore/CMakeFiles/SimpleEngineCore.dir/src/SimpleEngineCore/utils/test.cpp.o	d44886e763a61c42
-64	100	1631942156124533073	SimpleEngineCore/libSimpleEngineCore.a	e9b5048c54d6cc95
-2	832	1631942156856533098	SimpleEngineEditor/CMakeFiles/SimpleEngineEditor.dir/src/main.cpp.o	719156ffd7e95f56
-834	1035	1631942157056533105	bin/SimpleEngineEditor	5686e22f591421a3
-1	1100	1631942746648553054	SimpleEngineEditor/CMakeFiles/SimpleEngineEditor.dir/src/main.cpp.o	719156ffd7e95f56
-1	1103	1631942746652553054	SimpleEngineCore/CMakeFiles/SimpleEngineCore.dir/src/SimpleEngineCore/utils/test.cpp.o	d44886e763a61c42
-1103	1222	1631942746772553058	SimpleEngineCore/libSimpleEngineCore.a	e9b5048c54d6cc95
-1222	1529	1631942747080553068	bin/SimpleEngineEditor	5686e22f591421a3
